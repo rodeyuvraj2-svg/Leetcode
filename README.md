@@ -21,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
