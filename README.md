@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -58,4 +59,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/rodeyuvraj2-svg/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
